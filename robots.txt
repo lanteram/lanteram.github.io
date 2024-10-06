@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lanteram.github.io/sitemap.html.gz
+Sitemap: https://lanteram.github.io/app/sitemap.html.gz
+Sitemap: https://lanteram.github.io/assets/sitemap.html.gz
+Sitemap: https://lanteram.github.io/css/sitemap.html.gz
+Sitemap: https://lanteram.github.io/data/sitemap.html.gz
+Sitemap: https://lanteram.github.io/includes/sitemap.html.gz
+Sitemap: https://lanteram.github.io/item/sitemap.html.gz
+Sitemap: https://lanteram.github.io/src/sitemap.html.gz
